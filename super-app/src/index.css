@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Single+Day&family=Roboto:wght@400;500;700;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
